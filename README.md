@@ -28,7 +28,7 @@
 
 * Designed to integrate with the Python/Flask RESTful API that is in this repository: https://github.com/smart-coder997/stable-diffusion_api-docker
 
-* Built with Typescript, React, Tailwind & Next.js
+* Built with Typescript, React, Tailwind & Next.js 
 
 
 ## Feedback
